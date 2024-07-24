@@ -1,0 +1,14 @@
+package com.richard.clientepersonaservice.model;
+
+import javax.persistence.Entity;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+
+@Data
+@Entity
+@EqualsAndHashCode(callSuper = true)
+public class Cliente extends Persona {
+	private String clienteId;
+    private String contraseña;
+    private Boolean estado;
+}

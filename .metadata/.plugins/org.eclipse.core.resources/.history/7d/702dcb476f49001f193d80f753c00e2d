@@ -1,0 +1,5 @@
+package com.richard.clientepersonaservice.repository;
+
+public interface PersonaRepository {
+
+}

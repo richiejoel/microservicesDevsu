@@ -1,0 +1,2 @@
+INSERT INTO persona (nombre, genero, edad, identificacion, direccion, telefono) VALUES ('Jose Lema', 'Masculino', 30, '1234567890', 'Otavalo sn y principal', '098254785');
+INSERT INTO cliente (nombre, genero, edad, identificacion, direccion, telefono, cliente_id, contraseña, estado) VALUES ('Marianela Montalvo', 'Femenino', 25, '0987654321', 'Amazonas y NNUU', '097548965', '1234', '5678', true);

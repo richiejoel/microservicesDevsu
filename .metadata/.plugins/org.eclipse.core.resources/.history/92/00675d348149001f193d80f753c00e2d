@@ -1,0 +1,5 @@
+package com.richard.cuentamovimientosservice.controller;
+
+public class CuentaController {
+
+}
